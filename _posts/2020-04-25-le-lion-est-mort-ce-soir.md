@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Le lion est mort ce soir"
-author: jacques
 image: assets/images/2020-04-25.png
 comments: false
 ---

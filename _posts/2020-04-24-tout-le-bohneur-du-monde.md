@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Tout le bohneur du monde"
-author: jacques
 image: assets/images/2020-04-24.png
 comments: false
 ---
