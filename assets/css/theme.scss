@@ -292,7 +292,7 @@ img, img:hover {
         object-fit:cover;
         height:240px;
         width:100%;
-        object-position:top;
+        object-position:50% 50%;
     }
 }
 .firstpage {
@@ -312,7 +312,7 @@ img, img:hover {
             object-fit:cover;
             height:400px;
             width:100%;
-            object-position:top;
+            object-position:50% 50%;
         }
     }
 
@@ -324,7 +324,7 @@ img, img:hover {
             object-fit:cover;
             height:160px;
             width:100%;
-            object-position:top;
+            object-position:50% 50%;
         }
         .card-title {
             font-size:18px;
