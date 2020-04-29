@@ -318,6 +318,7 @@ img, img:hover {
 
     .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
         .card-text {
+            display:initial;
             // display:none;
         }
         .img-thumb {
