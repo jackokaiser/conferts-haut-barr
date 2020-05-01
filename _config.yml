@@ -1,10 +1,10 @@
 # Site
 name: "Conferts Haut-Barr"
-title: "conferts-haut-barr"
+title: "conferts"
 description: "Les concerts des confinés de la rue du Haut-Barr"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /conferts-haut-barr
+baseurl: /conferts
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'confertshautbarr'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -44,7 +44,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Other
-highlighter: none
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
