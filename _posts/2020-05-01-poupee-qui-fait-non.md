@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La poupée qui fait non"
-image: assets/images/2020-05-01.png
+image: assets/images/2020-05-01.jpg
 comments: false
 ---
 
