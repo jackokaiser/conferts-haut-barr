@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "So ein schöner Tag"
-image: assets/images/2020-05-02.JPG
+image: assets/images/2020-05-02.jpg
 comments: false
 ---
 
