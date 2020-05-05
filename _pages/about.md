@@ -19,3 +19,5 @@ Les gestes barrières sont évidemment réspéctés.
 ![Anne](assets/images/gallery/20200419_200128.jpg)
 ![Gilian](assets/images/gallery/20200420_200207.jpg)
 ![Les Kaiser](assets/images/gallery/20200424_200441.jpg)
+![L'orchestre](assets/images/gallery/20200502_200426.jpg)
+![En mode Autriche](assets/images/gallery/20200502_200709.jpg)
