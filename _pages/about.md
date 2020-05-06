@@ -21,3 +21,5 @@ Les gestes barrières sont évidemment réspéctés.
 ![Les Kaiser](assets/images/gallery/20200424_200441.jpg)
 ![L'orchestre](assets/images/gallery/20200502_200426.jpg)
 ![En mode Autriche](assets/images/gallery/20200502_200709.jpg)
+
+Ce site web est open-source et déployé sur github: [conferts-haut-barr](https://github.com/jackokaiser/conferts-haut-barr).
