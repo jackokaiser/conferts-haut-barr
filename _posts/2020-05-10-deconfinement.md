@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soirée déconfinement"
-image: assets/images/2020-05-10.png
+image: assets/images/2020-05-10.jpg
 comments: false
 ---
 
