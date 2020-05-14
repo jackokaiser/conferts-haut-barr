@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Impro pluie"
-image: assets/images/2020-05-13.jpg
+image: assets/images/2020-05-13.png
 comments: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Should I stay or should I go"
-image: assets/images/2020-05-14.jpg
+image: assets/images/2020-05-14.png
 comments: false
 ---
 
