@@ -20,7 +20,6 @@ Les gestes barrières sont évidemment réspéctés.
 ![La rue du Haut-Barr](assets/images/gallery/20200419_200102.jpg)
 ![Manue et Jean](assets/images/gallery/IMG-20200515-WA0001.jpg)
 ![Anne](assets/images/gallery/20200419_200128.jpg)
-![Gilian](assets/images/gallery/20200420_200207.jpg)
 ![Les Kaiser](assets/images/gallery/20200424_200441.jpg)
 ![L'orchestre](assets/images/gallery/20200502_200426.jpg)
 ![Thierry et Jacques aux percus](assets/images/gallery/IMG-20200515-WA0021.jpg)
